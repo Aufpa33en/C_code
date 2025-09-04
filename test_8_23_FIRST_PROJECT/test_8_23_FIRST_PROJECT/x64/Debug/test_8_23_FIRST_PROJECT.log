@@ -1,0 +1,8 @@
+﻿  test.c
+D:\code\test_8_23_FIRST_PROJECT\test_8_23_FIRST_PROJECT\test.c(12,6): error C2371: “main”: 重定义；不同的基类型
+      D:\code\test_8_23_FIRST_PROJECT\test_8_23_FIRST_PROJECT\test.c(5,5):
+      参见“main”的声明
+  
+D:\code\test_8_23_FIRST_PROJECT\test_8_23_FIRST_PROJECT\test.c(21,2): warning C4098: “main”:“void”函数返回值
+D:\code\test_8_23_FIRST_PROJECT\test_8_23_FIRST_PROJECT\test.c(29,2): warning C4098: “main”:“void”函数返回值
+D:\code\test_8_23_FIRST_PROJECT\test_8_23_FIRST_PROJECT\test.c(42,2): warning C4098: “main”:“void”函数返回值
