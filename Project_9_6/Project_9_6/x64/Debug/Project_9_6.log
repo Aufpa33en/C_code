@@ -1,0 +1,8 @@
+﻿  源.c
+D:\code\Project_9_6\Project_9_6\源.c(13,9): warning C4129: “d：: 不可识别的字符转义序列
+D:\code\Project_9_6\Project_9_6\源.c(14,9): warning C4129: “d：: 不可识别的字符转义序列
+D:\code\Project_9_6\Project_9_6\源.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\code\Project_9_6\Project_9_6\源.c(14,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  Project_9_6.vcxproj -> D:\code\Project_9_6\x64\Debug\Project_9_6.exe

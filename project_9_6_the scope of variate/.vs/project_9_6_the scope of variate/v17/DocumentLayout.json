@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\project_9_6_the scope of variate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E592B7-01F3-49A5-849F-576A59DD0596}|project_9_6_the scope of variate\\project_9_6_the scope of variate.vcxproj|D:\\code\\project_9_6_the scope of variate\\project_9_6_the scope of variate\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7E592B7-01F3-49A5-849F-576A59DD0596}|project_9_6_the scope of variate\\project_9_6_the scope of variate.vcxproj|solutionrelative:project_9_6_the scope of variate\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\code\\project_9_6_the scope of variate\\project_9_6_the scope of variate\\\u6E90.c",
+              "RelativeDocumentMoniker": "project_9_6_the scope of variate\\\u6E90.c",
+              "ToolTip": "D:\\code\\project_9_6_the scope of variate\\project_9_6_the scope of variate\\\u6E90.c",
+              "RelativeToolTip": "project_9_6_the scope of variate\\\u6E90.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-06T08:34:27.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
